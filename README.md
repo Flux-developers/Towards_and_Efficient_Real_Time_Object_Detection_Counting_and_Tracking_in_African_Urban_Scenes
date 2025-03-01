@@ -11,7 +11,7 @@ This **PyTorch** implementation of [MoCo v3](https://arxiv.org/abs/2104.02057) e
 The original **MoCo v3** implementation was developed in **TensorFlow** and executed on **TPU**. This repository provides a **PyTorch reimplementation**, optimized for **GPUs**.  
 Although numerical differences exist between libraries, this version **faithfully reproduces the performance and observations** of the original paper.  
 
-##Free africa scene database
+## Free africa scene database
 
 https://drive.google.com/drive/folders/1L7E6YmeDcJCaKsawYDvhYXX86bsYkSbO?usp=sharing
 
