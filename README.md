@@ -13,7 +13,7 @@ Although numerical differences exist between libraries, this version **faithfull
 
 ## Free africa scene database
 
-https://drive.google.com/drive/folders/1L7E6YmeDcJCaKsawYDvhYXX86bsYkSbO?usp=sharing
+We are making freely available a dataset built from data from African cities : https://drive.google.com/drive/folders/1L7E6YmeDcJCaKsawYDvhYXX86bsYkSbO?usp=sharing
 
 
 
