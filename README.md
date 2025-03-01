@@ -7,6 +7,10 @@ This **PyTorch** implementation of [MoCo v3](https://arxiv.org/abs/2104.02057) e
 
 
 
+https://github.com/user-attachments/assets/08fe7b05-b06a-4a79-983c-6ef5c825131c
+
+
+
 
 The original **MoCo v3** implementation was developed in **TensorFlow** and executed on **TPU**. This repository provides a **PyTorch reimplementation**, optimized for **GPUs**.  
 Although numerical differences exist between libraries, this version **faithfully reproduces the performance and observations** of the original paper.  
