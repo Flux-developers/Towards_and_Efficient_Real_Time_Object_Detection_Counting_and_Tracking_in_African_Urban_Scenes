@@ -24,7 +24,7 @@ We are making freely available a dataset built from data from African cities : h
 
 
 
-file:///home/hamed/Images/horux_2.png![horux_2](https://github.com/user-attachments/assets/5c681dae-3e76-42e5-8bab-9da55e6b9cf0)
+![horux_2](https://github.com/user-attachments/assets/5c681dae-3e76-42e5-8bab-9da55e6b9cf0)
 
 
 
