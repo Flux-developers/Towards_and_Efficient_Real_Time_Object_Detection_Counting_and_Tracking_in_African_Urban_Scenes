@@ -22,7 +22,8 @@ We are making freely available a dataset built from data from African cities : h
 ## Our tools: Horux
 ![horux_1](https://github.com/user-attachments/assets/f2fec7b0-8a46-44aa-a21b-040ba27850fc)
 
-![horux_2](https://github.com/user-attachments/assets/2a6aa338-1682-465c-a67b-052f7005c8b2)
+![horux_2](https://github.com/user-attachments/assets/c15f1144-c806-4c6e-b8ba-e79dc97aa128)
+
 
 
 
